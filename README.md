@@ -1,5 +1,5 @@
 # C-project-university
-Registration and management system for a pool
+Registration and management system for a local swimming pool
 
 
  - variable and function naming in Romanian;  - mandatory for project
